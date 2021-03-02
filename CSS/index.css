@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+  color: white;
+}
+button {
+  background-color: green;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
